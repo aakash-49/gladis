@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: blue;
+    color: yellow;
+    padding: 15px;
+}
+ul,h1{
+    display: inline;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    margin: 7px;
+    text-align: center;
+    justify-content: center;
+}
+li:hover{
+         color: yellow;
+         background-color: white;
+         padding: 10px;
+}
+.bar{
+    margin-top: 20px;
+}
+.gladis{
+    padding: 0px 15px 0px 15px;
+}
